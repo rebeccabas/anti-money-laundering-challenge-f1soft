@@ -1,0 +1,9 @@
+*.csv
+venv
+lib
+*.png
+main.py
+neo4j_analysis.py
+data_analysis.ipynb
+isolation_forest.py
+high_risk_accounts.txt
